@@ -18,6 +18,7 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 
 
 
+
 ## EIP Rationale
 
 We intend EIPs to be the primary mechanisms for proposing new features, for collecting community technical input on an issue, and for documenting the design decisions that have gone into Ethereum. Because the EIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
